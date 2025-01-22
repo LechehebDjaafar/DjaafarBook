@@ -8,9 +8,8 @@ You can view the project live [[here](https://lechehebdjaafar.github.io/DjaafarB
 
 ### 📹 Project Demo Video
 
-[![DjaafarBook Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[![Social Media Website Demo](https://img.youtube.com/vi/Pj14xpM_kkg/0.jpg)](https://www.youtube.com/watch?v=Pj14xpM_kkg)
 
-*Replace `YOUTUBE_VIDEO_ID` in the above links with your actual YouTube video ID*
 
 ## ✨ Features
 
