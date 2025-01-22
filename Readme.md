@@ -4,7 +4,7 @@ A Facebook-inspired social networking platform built with HTML, CSS, and JavaScr
 
 ## 🚀 Demo
 
-You can view the project live [[here](https://lechehebdjaafar.github.io/DjaafarBook/)](#) <!-- Replace with your actual deployment link -->
+You can view the project live [[here](https://lechehebdjaafar.github.io/DjaafarBook/)] <!-- Replace with your actual deployment link -->
 
 ### 📹 Project Demo Video
 
